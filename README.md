@@ -44,14 +44,6 @@
 
 ## Ключевые проекты
 
-###  [Llama-3 LoRA Train](https://github.com/Lygush/Llama-3_LoRA_train) | Python | 2025
-- Скрипт для тонкой настройки LLM с использованием LoRA
-- Функционал:
-  * Кэширование и предобработка датасетов
-  * Оценка качества генерации (ROUGE-метрики)
-  * Оптимизация использования GPU-памяти
-- **Библиотеки:** Hugging Face Transformers, Unsloth, PyTorch
-
 ###  [Search Engine](https://github.com/Lygush/Search_Engine) | C++ | 2024
 - Высокопроизводительная поисковая система для обработки больших объемов текста
 - Реализация:
@@ -86,6 +78,14 @@
   * Мьютексы
   * Атомарные операции
   * Thread-local storage
+
+###  [Llama-3 LoRA Train](https://github.com/Lygush/Llama-3_LoRA_train) | Python | 2025
+- Скрипт для тонкой настройки LLM с использованием LoRA
+- Функционал:
+  * Кэширование и предобработка датасетов
+  * Оценка качества генерации (ROUGE-метрики)
+  * Оптимизация использования GPU-памяти
+- **Библиотеки:** Hugging Face Transformers, Unsloth, PyTorch
 
 ---
 
